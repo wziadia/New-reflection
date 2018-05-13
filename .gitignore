@@ -123,3 +123,8 @@ Desktop.ini
 **/packages/OctoPack*/license.txt
 **/packages/OctoPack*/tools/Install.ps1
 **/packages/OctoPack*/tools/Uninstall.ps1
+/refactor-me/Scripts
+/refactor-me/Models/ProductModel.cs
+/refactor-me/Models/ProductOptionModel.cs
+/refactor-me/fonts
+/refactor-me/Views
